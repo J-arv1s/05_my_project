@@ -12,5 +12,4 @@
 - 'localhost:3000' for server side
 
 ## End Process
-- Ctrl + c
 - In terminal 'docker compose down'
